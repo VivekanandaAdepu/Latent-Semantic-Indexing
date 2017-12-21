@@ -1,0 +1,14 @@
+	Keyword		Doc1	Doc2	Doc3
+	shipmnt		1	0	1
+	
+	gold		1	0	1
+	
+	damaged		1	0	0
+	
+	delvry		0	1	0
+	
+	silver		0	2	0
+	
+	arrived		0	1	1
+	
+	truck		0	1	1
